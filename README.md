@@ -19,7 +19,7 @@ I'm a **[your role: e.g., Software Developer | Data Scientist | Cloud Engineer]*
 ## 🛠️ Technologies & Tools
 
 ### **Languages**
-`JavaScript` `TypeScript` `Python` `C#` `Go` *(replace with yours)*
+ `TypeScript` `Python` `C#` `Go` *(replace with yours)*
 
 ### **Frameworks & Libraries**
 `React` `Node.js` `Express` `Django` `Flutter` *(replace with yours)*
