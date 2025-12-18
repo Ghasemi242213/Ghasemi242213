@@ -2,9 +2,25 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/7a/7a7f6d3c5c6c5c5c5c5c5c5c5c5c5c5.gif" width="320" alt="High-quality rotating DNA double helix" />
+  <img src="https://i.gifer.com/origin/7a/7a7f6d3c5c6c5c5c5c5c5c5c5c5c5c5.gif" width="280" />
+  <br>
+  <em>The fundamental code of life</em>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8gTp3WqXq1q/giphy.gif" width="240" />
+  <br>
+  <em>Precision in molecular interactions</em>
+</p>
+
+I am a Professor of Biology with a deep research focus on **Bioinformatics & Computational Biology**. My work bridges the gap between **biological complexity** and **computational precision**, with specialized interests in:
+
+*   **Protein Structure-Function Analysis**
+*   **Genomic Data Mining & Curation**
+*   **Algorithm Development for Biological Databases**
+*   **Automation of Wet-Lab & In-Silico Pipelines using Python**
+
+The core of my research is understanding life's mechanisms at the molecular level and building tools to decipher them.
 
 
 
