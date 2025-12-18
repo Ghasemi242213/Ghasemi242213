@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/junior-616161?style=for-the-badge"/>
 </p>
 
-
 📌 **LinkedIn:** https://www.linkedin.com/in/reza-ghasemi-74b89326b  
 📧 **Email:** reza.ghasemi.biotechnologist@gmail.com  
+
 ---
 
 <p align="center">
