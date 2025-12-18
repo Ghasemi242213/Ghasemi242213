@@ -2,13 +2,11 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DNA_animated.gif" width="260" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DNA_animated.gif" width="240" />
 </p>
 
-🧬 Bioinformatics & Biotechnology  
-🔬 Molecular-level analysis of biological systems  
-📊 Data-driven interpretation of protein and sequence data  
-💻 Computational approaches using Python
+Bioinformatics and Biotechnology with a focus on  
+molecular biology, protein analysis, and computational modeling.
 
 
 
