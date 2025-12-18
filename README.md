@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I2NDk1b25jYThhMTZzaGttNmw5dTUzdXBod29wZmVwN2w0MWdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VXo9MzpYalwPUNEfKT/giphy.gif" width="280" />
-  <br>
-</p>
 # 👋 Hi, I'm Reza Ghasemi  
 
 <p align="left">
@@ -18,6 +13,11 @@
 📌 **LinkedIn:** https://www.linkedin.com/in/reza-ghasemi-74b89326b  
 📧 **Email:** reza.ghasemi.biotechnologist@gmail.com  
 
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I2NDk1b25jYThhMTZzaGttNmw5dTUzdXBod29wZmVwN2w0MWdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VXo9MzpYalwPUNEfKT/giphy.gif" width="280" />
+  <br>
+</p>
 ---
 
 ## 🔗 Featured Project
