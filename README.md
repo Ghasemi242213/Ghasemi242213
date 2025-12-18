@@ -2,11 +2,12 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DNA_animated.gif" width="240" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
 </p>
 
-Bioinformatics and Biotechnology with a focus on  
-molecular biology, protein analysis, and computational modeling.
+I am deeply interested in **Bioinformatics & Computational Biology**,  
+with a focus on protein analysis, biological databases, and automation using Python.
+
 
 
 
