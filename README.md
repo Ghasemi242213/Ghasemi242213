@@ -2,13 +2,28 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" alt="Rotating DNA Double Helix Animation" />
 </p>
 
-I am deeply interested in **Bioinformatics & Computational Biology**,  
-with a focus on protein analysis, biological databases, and automation using Python.
+I am a Professor of Biology with a deep research interest in **Bioinformatics & Computational Biology**—an interdisciplinary field that blends biology, computer science, and mathematics to analyze complex biological data[citation:2]. My work focuses on leveraging computational tools to solve fundamental biological questions.
 
+### 🔬 Research Focus
+My lab utilizes **Python programming** and its powerful ecosystem for a wide range of applications[citation:3][citation:6]:
+*   **Genomic & Proteomic Analysis:** Processing and interpreting DNA, RNA, and protein sequence data.
+*   **Structural Biology:** Analyzing and visualizing protein structures and complexes using tools like **Biopython**[citation:3][citation:5].
+*   **Biological Data Science:** Applying statistical modeling and **machine learning** (e.g., via Scikit-learn) to large-scale biological datasets for prediction and discovery[citation:3].
 
+### 🛠️ Technical Toolkit
+*   **Primary Language:** **Python** (NumPy, Matplotlib, Pandas)[citation:3]
+*   **Key Libraries:** Biopython[citation:3][citation:5], Scikit-learn[citation:3]
+*   **Domains:** Sequence Analysis, Phylogenetics, Systems Biology[citation:2]
+
+### 📚 Academic Contribution
+I am passionate about bridging the gap between biology and computational thinking. I guide students through the challenges and rewards of this field, which requires comfort with both biological concepts and computational methods like programming and statistics[citation:2].
+
+<p align="center">
+  <i>Exploring the code of life through the lens of computation.</i>
+</p>
 
 
 
