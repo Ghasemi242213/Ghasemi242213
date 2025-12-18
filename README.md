@@ -2,11 +2,12 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="260" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DNA_animated.gif" width="280" />
 </p>
 
-Working at the intersection of **Biology, Mathematics, and Programming**  
-with a focus on **Bioinformatics and Computational Biology**.
+Bioinformatics & Computational Biology  
+Protein sequence analysis • Biological databases • Python
+
 
 
 
