@@ -6,27 +6,24 @@
   <img src="https://img.shields.io/badge/Biotechnology-Science-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data-Driven-Innovation-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-Database-brightgreen?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/VSCode-IDE-blue?style=for-the-badge&logo=visual-studio-code"/>
 </p>
 
 ---
 
 ## 🔗 Featured Project
 
-🌟 **Check out my project:**  
-👉 https://github.com/Ghasemi242213
+🌟 **Main Project & Skill Showcase:**  
+👉 https://github.com/Ghasemi242213  
 
-A real-world project showcasing Python programming, data processing, automation, and practical application design.
+This repository reflects most of my current skills, including Python programming, database integration, automation, and applied problem-solving.
 
 ---
 
 ## 🧠 About Me  
 
-I’m a **Junior Python Developer** with a strong academic background in **Biotechnology**, and a passion for transforming complex biological data into practical, data-driven solutions.
+I’m a **Junior Python Developer** with a solid academic background in **Biotechnology**, passionate about transforming complex biological and scientific data into **practical, data-driven solutions**.
 
-During my studies in Biotechnology, I realized that **programming is the key** to unlocking the full potential of scientific data. That's why I’ve dedicated myself to mastering **Python, MySQL, and modern development tools** — building everything from database apps to automation scripts and Telegram bots.
-
-I thrive where **science meets code**, and I enjoy creating efficient, scalable, and impactful software.
+During my biotechnology studies, I realized that **programming is the key** to unlocking the real power of biological data. Since then, I’ve been focusing on Python, databases, and software development — building projects that combine **science, logic, and real-world applications**.
 
 ---
 
@@ -34,81 +31,64 @@ I thrive where **science meets code**, and I enjoy creating efficient, scalable,
 
 ### 🐍 Programming  
 - Python (automation, scripting, data processing)  
-- Clean, modular, and scalable code
+- Writing clean, modular, and maintainable code  
 
 ### 🗄️ Databases  
-- **MySQL** (design, querying, optimization)  
-- SQL schema & integration with Python
+- **MySQL**  
+- Database design, SQL queries, optimization  
+- Python–MySQL integration  
 
-### 💻 Development Tools  
-- **VSCode** (IDE setup, debugging, extensions)  
+### 💻 Development & Workflow  
 - Git & GitHub  
-- Virtual environments (`venv`, `pip`)
+- Virtual environments (`venv`, `pip`)  
+- Project structuring & documentation  
+- Debugging and optimization  
 
-### 🧬 Bioinformatics & Scientific Tools  
-- Data parsing & analysis  
-- Libraries used in biological data processing:
-  - `pandas` – Data analysis & manipulation  
+### 🧬 Biotechnology & Bioinformatics  
+- Applying programming to biological and scientific data  
+- Experience with biological datasets and structured analysis  
+- Libraries related to biotechnology and data analysis:
+  - `pandas` – Data manipulation  
   - `numpy` – Numerical computing  
   - `biopython` – Bioinformatics tools  
-  - `matplotlib` / `seaborn` – Data visualization  
+  - `scikit-bio` – Biological data analysis  
+  - `matplotlib` / `seaborn` – Scientific visualization  
 
 ### 🤖 Projects & Automation  
-- Telegram Bots (Python + APIs)  
-- CLI tools  
-- Scripts for data workflows
+- Telegram Bots  
+- Automation scripts  
+- Data-driven applications  
 
 ---
 
-## 📦 Key Libraries & Tools I Use
+## 📦 Libraries & Tools I Commonly Use
 
-| Category | Tools & Libraries |
-|----------|-------------------|
-| Data | `pandas`, `numpy`, `openpyxl` |
+| Category | Libraries & Tools |
+|--------|------------------|
+| Data Analysis | `pandas`, `numpy`, `openpyxl` |
 | Visualization | `matplotlib`, `seaborn`, `plotly` |
 | Databases | `mysql-connector-python`, `SQLAlchemy` |
 | Bioinformatics | `biopython`, `scikit-bio` |
-| APIs & Networking | `requests` |
-| Automation | `schedule`, `argparse` |
+| Networking & APIs | `requests` |
+| Automation | `argparse`, `schedule` |
 
 ---
 
-## 🧪 How I Work (Dev Setup)
+## 🎯 Career Vision  
 
-✨ Typical VSCode extensions I rely on:
-
-- Python (Microsoft)
-- Pylance
-- MySQL
-- GitLens
-- Prettier / Black (formatters)
-- Code Runner
-
-⚙️ Best practices I follow:
-
-✔ Virtual environments per project  
-✔ Clear folder structure  
-✔ Requirements file (`requirements.txt`)  
-✔ Git branches for features  
-✔ Document everything
+To combine my **biotechnology background** with **software development** skills in order to build impactful tools that help researchers, scientists, and data professionals extract real value from complex data.
 
 ---
 
-## 🎯 Career Vision
-
-To leverage my **biotechnology expertise** and **software development skills** to build high-impact tools that help scientists, researchers, and data users get real value from complex data.
-
----
-
-## 🚀 Motto
+## 🚀 Motto  
 
 > **“Where science meets code, innovation takes flight.”**
 
 ---
 
-## 🌟 Fun Fact
+## 🌟 Fun Fact  
 
-Even as a Junior Developer, I love solving hard problems, optimizing workflows, and pushing myself into new tech areas — because I believe **biology, data, and code can change the world.**
+Even as a Junior Developer, I enjoy tackling challenging problems, optimizing workflows, and continuously learning — because I believe **biology, data, and code together can change the world** 🌍
 
 ---
 
