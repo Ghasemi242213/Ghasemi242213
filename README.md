@@ -1,4 +1,12 @@
 # 👋 Hi, I'm **Reza Ghasemi**
+## 🧬 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
+</p>
+
+I am deeply interested in **Bioinformatics & Computational Biology**,  
+with a focus on protein analysis, biological databases, and automation using Python.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
