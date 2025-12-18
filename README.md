@@ -28,7 +28,7 @@ This repository reflects most of my current skills, including Python programming
 
 I’m a **Junior Python Developer** with a strong academic background in **Biotechnology**, passionate about transforming complex biological and scientific data into **practical, data-driven solutions**.
 
-During my biotechnology studies, I realized that **programming is the key** to unlocking the real power of scientific data. Since then, I’ve been focusing on Python, databases, and software development — building projects that combine **science, logic, and real world applications**.
+During my biotechnology studies, I realized that **programming is the key** to unlocking the real power of scientific data. Since then, I’ve been focusing on Python, databases, and software development  building projects that combine **science, logic, and real world applications**.
 
 ---
 
@@ -87,7 +87,7 @@ To combine my **biotechnology background** with **software development** skills 
 
 ## 🌟 Fun Fact  
 
-Even as a Junior Developer, I enjoy tackling challenging problems, optimizing workflows, and continuously learning — because I believe **biology, data, and code together can change the world** 🌍
+Even as a Junior Developer, I enjoy tackling challenging problems, optimizing workflows, and continuously learning  because I believe **biology, data, and code together can change the world** 🌍
 
 ---
 
