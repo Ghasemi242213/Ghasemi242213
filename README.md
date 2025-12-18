@@ -2,10 +2,11 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lZxzroU33typuU/giphy.gif" width="240" />
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="260" />
 </p>
 
-🧬 Bioinformatics • 🧪 Biotechnology • 🐍 Python
+Working at the intersection of **Biology, Mathematics, and Programming**  
+with a focus on **Bioinformatics and Computational Biology**.
 
 
 
