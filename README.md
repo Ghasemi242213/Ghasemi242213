@@ -1,11 +1,8 @@
 # 👋 Hi, I'm **Reza Ghasemi**
-## 🧬 About Me
-
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/DNA_Helix_animation.gif" width="240" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_double_helix_animation.gif" width="250" />
 </p>
 
-Computational analysis of biological sequences and protein data.
 
 
 
