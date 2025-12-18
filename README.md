@@ -2,8 +2,9 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/7a/7a7f6d3c5c6c5c5c5c5c5c5c5c5c5c5.gif" width="280" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtmcW9qN2U0MnlmYnd4b2dtam9ndTN0a2V2bnpydHkxcGtydDhlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt5Hhky3LJddnj2/giphy.gif" width="280" />
   <br>
+</p>
   <em>The fundamental code of life</em>
 </p>
 
