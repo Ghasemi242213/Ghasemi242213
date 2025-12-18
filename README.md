@@ -1,99 +1,76 @@
-# 👋 Hi, I'm 
-## 🧬 About Me
+# 👋 Hi, I'm Reza Ghasemi  
+### 🧬 Junior Python Developer | Biotechnology Enthusiast | Data-Driven Thinker  
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I2NDk1b25jYThhMTZzaGttNmw5dTUzdXBod29wZmVwN2w0MWdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VXo9MzpYalwPUNEfKT/giphy.gif" width="280" />
-  <br>
-</p>
-I am a Professor of Biology with a deep research focus on **Bioinformatics & Computational Biology**. My work bridges the gap between **biological complexity** and **computational precision**, with specialized interests in:
-
-*   **Protein Structure-Function Analysis**
-*   **Genomic Data Mining & Curation**
-*   **Algorithm Development for Biological Databases**
-*   **Automation of Wet-Lab & In-Silico Pipelines using Python**
-
-The core of my research is understanding life's mechanisms at the molecular level and building tools to decipher them.
-
-
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Level-Junior%20to%20Intermediate-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Biotechnology-Science-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Driven-Innovation-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me  
 
-<p align="left">
-  <a href="https://github.com/your-username/xkcd-comic-downloader">
-    <img src="https://img.shields.io/badge/XKCD%20Comic%20Downloader-Multithreading-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/your-username/uniprot-telegram-bot">
-    <img src="https://img.shields.io/badge/UniProt%20Telegram%20Bot-Bioinformatics-success?style=for-the-badge" />
-  </a>
-</p>
+I’m a **Junior Python Developer** with an academic background in **Biotechnology**, passionate about transforming **biological and scientific data into actionable, real-world solutions**.
 
-* 🖼️ **XKCD Comic Downloader**
-  Multi-threaded Python app for downloading XKCD comics efficiently using `ThreadPoolExecutor`.
+During my studies, I discovered that **programming is the missing link** between raw biological data and meaningful insights. Since then, I’ve been diving deep into Python, databases, and practical software development — always aiming to merge **science + code** into impactful projects.
 
-* 🧬 **UniProt Bioinformatics Telegram Bot**
-  Telegram bot for searching proteins, viewing sequences, and downloading FASTA files via UniProt REST API.
+I thrive at the intersection of **technology, data, and biology**, where innovation truly begins.
 
 ---
 
-## 📘 About Me
+## 🛠️ Skills & Expertise  
 
-I'm **Reza Ghasemi**, a motivated and detail-oriented Python developer with a strong academic background and a growing passion for software development. My interests lie at the intersection of **problem-solving, automation, and data-driven applications**.
+### 🐍 Programming  
+- Python (automation, scripting, data processing)  
+- Clean, modular, and scalable code  
 
-I enjoy turning ideas into practical programs and continuously improving my skills through hands-on projects. I believe learning by building is the most effective way to grow as a developer.
+### 🗄️ Databases  
+- MySQL  
+- Database design, queries, optimization  
 
----
+### 🧬 Bioinformatics & Scientific Computing  
+- Applying programming to biological and scientific datasets  
+- Data analysis & structured problem-solving  
 
-## 🧠 What I’m Working On
+### 🧩 Project Development  
+- Telegram Bots  
+- Online platforms  
+- End-to-end project structuring  
+- Real-world problem solving  
 
-* Strengthening my Python fundamentals and best practices
-* Building real-world projects (automation, APIs, bots)
-* Learning how to write clean, readable, and maintainable code
-* Exploring open-source projects and collaborative development
-
----
-
-## 🛠️ Skills & Tools
-
-* **Programming:** Python
-* **Concepts:** OOP, Multithreading, REST APIs
-* **Libraries:** requests, telebot, concurrent.futures
-* **Tools:** Git, GitHub, VS Code
-* **Other:** Problem Solving, Algorithmic Thinking
-
----
-
-## 🚀 Featured Projects
-
-* 🧬 **UniProt Bioinformatics Telegram Bot**
-  A Telegram bot for searching proteins, retrieving sequences, and downloading FASTA files using the UniProt REST API.
-
-* 🖼️ **XKCD Comic Downloader**
-  A multi-threaded Python application for downloading XKCD comics efficiently.
+### 📚 Mindset  
+- Continuous learner  
+- Strong analytical thinking  
+- Always exploring modern tools & best practices  
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Career Vision  
 
-* Advanced Python patterns
-* Writing testable and scalable code
-* Working with external APIs
+To leverage my **biotechnology expertise** alongside **software development** skills in order to create **high-impact, data-driven solutions** that bridge the gap between **science and technology**.
 
 ---
 
-## 📫 Get in Touch
+## 🚀 Motto  
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+> **“Where science meets code, innovation takes flight.”**
+
+---
+
+## 🌟 Fun Fact  
+
+Even as a **Junior Developer**, I enjoy tackling complex problems, optimizing workflows, and pushing my limits — because I believe **data, biology, and code together can change the world** 🌍
+
+---
+
+## 🤝 Let’s Connect  
+
+- 💻 GitHub: *You’re already here 😉*  
+- 📬 Open to collaboration, learning, and exciting projects  
 
 ---
 
 <p align="center">
-  ✨ *Always learning, always building.* ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=120&section=footer"/>
 </p>
