@@ -2,18 +2,8 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" alt="Rotating DNA Double Helix Animation" />
+  <img src="https://i.gifer.com/origin/7a/7a7f6d3c5c6c5c5c5c5c5c5c5c5c5c5.gif" width="320" alt="High-quality rotating DNA double helix" />
 </p>
-
-I am a computational biologist deeply fascinated by the intersection of **life sciences** and **data science**. My research and work are centered on **Bioinformatics & Computational Biology**, with a strong focus on extracting meaningful insights from complex biological data.
-
-### 🔍 Core Interests
-*   **Protein Analysis & Structural Bioinformatics:** Investigating protein structure, function, and interactions using computational models.
-*   **Biological Databases & Data Mining:** Developing and utilizing resources to manage, query, and interpret large-scale genomic and proteomic datasets.
-*   **Automation & Tool Development:** Building robust, reproducible pipelines and software in **Python** to automate analyses and empower scientific discovery.
-
-### 🛠️ Technical Approach
-I believe in the power of **Python** and its scientific ecosystem (e.g., Biopython, Pandas, Scikit-learn) as foundational tools for modern biological research, enabling everything from simple scripting to advanced machine learning applications.
 
 
 
