@@ -2,11 +2,12 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DNA_animated.gif" width="280" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_double_helix_animation.gif" width="260" />
 </p>
 
-Bioinformatics & Computational Biology  
-Protein sequence analysis • Biological databases • Python
+Applied mathematics background with a focus on  
+**bioinformatics, molecular biology, and computational analysis**.
+
 
 
 
