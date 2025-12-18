@@ -2,11 +2,11 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" />
 </p>
 
-I am deeply interested in **Bioinformatics & Computational Biology**,  
-with a focus on protein analysis, biological databases, and automation using Python.
+I work at the intersection of **biology and computation**, focusing on  
+**protein sequences, biological databases, and Python-based automation**.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
