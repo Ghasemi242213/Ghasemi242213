@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Reza Ghasemi  
 
-### python | science | developer | biotechnology | MySQL | database | junior
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/science-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/developer-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/biotechnology-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/database-43A047?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/junior-616161?style=for-the-badge"/>
+</p>
 
 📌 **LinkedIn:** https://www.linkedin.com/in/reza-ghasemi-74b89326b  
 📧 **Email:** reza.ghasemi.biotechnologist@gmail.com  
