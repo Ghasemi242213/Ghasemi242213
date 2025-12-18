@@ -2,11 +2,11 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_double_helix_animation.gif" width="260" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/DNA_Helix_animation.gif" width="240" />
 </p>
 
-Applied mathematics background with a focus on  
-**bioinformatics, molecular biology, and computational analysis**.
+Computational analysis of biological sequences and protein data.
+
 
 
 
